@@ -14,6 +14,7 @@
 		C3D15DFC2974BD8A00DA486D /* f1rageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D15DFB2974BD8A00DA486D /* f1rageTests.swift */; };
 		C3D15E062974BD8A00DA486D /* f1rageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D15E052974BD8A00DA486D /* f1rageUITests.swift */; };
 		C3D15E082974BD8A00DA486D /* f1rageUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D15E072974BD8A00DA486D /* f1rageUITestsLaunchTests.swift */; };
+		C3D15E1B2975B62E00DA486D /* GetThatData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D15E1A2975B62E00DA486D /* GetThatData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C3D15E012974BD8A00DA486D /* f1rageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = f1rageUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3D15E052974BD8A00DA486D /* f1rageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = f1rageUITests.swift; sourceTree = "<group>"; };
 		C3D15E072974BD8A00DA486D /* f1rageUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = f1rageUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C3D15E1A2975B62E00DA486D /* GetThatData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetThatData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		C3D15DE92974BD8800DA486D /* f1rage */ = {
 			isa = PBXGroup;
 			children = (
+				C3D15E1A2975B62E00DA486D /* GetThatData.swift */,
 				C3D15DEA2974BD8800DA486D /* f1rageApp.swift */,
 				C3D15DEC2974BD8800DA486D /* ContentView.swift */,
 				C3D15DEE2974BD8A00DA486D /* Assets.xcassets */,
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3D15E1B2975B62E00DA486D /* GetThatData.swift in Sources */,
 				C3D15DED2974BD8800DA486D /* ContentView.swift in Sources */,
 				C3D15DEB2974BD8800DA486D /* f1rageApp.swift in Sources */,
 			);
